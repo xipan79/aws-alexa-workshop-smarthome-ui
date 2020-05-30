@@ -11,5 +11,5 @@ If you have any issues, please create issues in [aws-samples/aws-alexa-workshop]
 
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+This library is licensed under the MIT-0 License. Please See the LICENSE file.
 
